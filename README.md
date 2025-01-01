@@ -1,4 +1,9 @@
-Orman Yönetim Sistemi Senaryo: Ormanda Ağaç İşleme Uygulaması Bu proje, Flyweight, Visitor ve Chain of Responsibility tasarım desenlerini bir araya getirerek optimize bir orman yönetim sistemi sunar. Projenin ana amacı, bir ormandaki ağaçların türlerini ve pozisyonlarını yönetmek, her ağaca farklı işlemler uygulamak ve bu işlemleri zincirleme şekilde gerçekleştirmektir.
+Orman Yönetim Sistemi Senaryo: 
+
+
+Bu proje, Flyweight, Visitor ve Chain of Responsibility tasarım desenlerini bir araya getirerek optimize bir orman yönetim sistemi sunar. 
+
+Projenin ana amacı, bir ormandaki ağaçların türlerini ve pozisyonlarını yönetmek, her ağaca farklı işlemler uygulamak ve bu işlemleri zincirleme şekilde gerçekleştirmektir.
 
 Projenin Yapısı:
 
